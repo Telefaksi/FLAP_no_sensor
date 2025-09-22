@@ -1,3 +1,10 @@
+Add to printer.cfg
+
+[save_variables]
+filename: /home/pi/printer_data/config/save_variables.cfg
+
+Only filament load and unload is tested at this point!
+
 
 # Filament Loading À la Prusa (FLÀP) 
 
